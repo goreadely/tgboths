@@ -1,0 +1,4 @@
+# - *- coding: utf- 8 - *-
+[settings]
+token=AAFfd7_BnDVkcUq2MtVopqwJdg-igL0x_gk
+admin_id=5792853818
